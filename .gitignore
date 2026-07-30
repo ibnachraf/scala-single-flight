@@ -1,0 +1,21 @@
+# sbt / Scala build output
+target/
+project/target/
+project/project/
+out/
+
+# Metals / Bloop / BSP
+.bsp/
+.bloop/
+.metals/
+.scala-build/
+
+# IDE
+.idea/
+*.iml
+
+# JFR recordings
+*.jfr
+
+# macOS
+.DS_Store
